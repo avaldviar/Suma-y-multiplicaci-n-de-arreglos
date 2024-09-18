@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|c:\\users\\gemel\\documents\\repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\probabilidaddados\\lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|solutionrelative:lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|c:\\users\\gemel\\documents\\repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\probabilidaddados\\lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|solutionrelative:lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|solutionrelative:lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\lanzamientodadosej1\\clases\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|solutionrelative:lanzamientodadosej1\\clases\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|c:\\users\\gemel\\documents\\repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\probabilidaddados\\lanzamientodadosej1\\clases\\tirodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|solutionrelative:lanzamientodadosej1\\clases\\tirodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|c:\\users\\gemel\\documents\\repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\probabilidaddados\\lanzamientodadosej1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\ProbabilidadDados.csproj|solutionrelative:lanzamientodadosej1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:39:31.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.Designer.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:34:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Clases\\Dado.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Clases\\Dado.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Clases\\Dado.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Clases\\Dado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:04:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:17:20.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiroDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Clases\\TiroDeDados.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Clases\\TiroDeDados.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Clases\\TiroDeDados.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Clases\\TiroDeDados.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:10:59.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ProbabilidadDados\\LanzamientoDadosEj1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:02:32.893Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

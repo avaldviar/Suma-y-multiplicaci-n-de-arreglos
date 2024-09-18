@@ -1,0 +1,5 @@
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ProbabilidadDados\LanzamientoDadosEj1\obj\Debug\ProbabilidadDados.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ProbabilidadDados\LanzamientoDadosEj1\obj\Debug\LanzamientoDadosEj1.Form1.resources
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ProbabilidadDados\LanzamientoDadosEj1\obj\Debug\ProbabilidadDados.csproj.GenerateResource.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ProbabilidadDados\LanzamientoDadosEj1\obj\Debug\LanzamientoDadosEj1.exe
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ProbabilidadDados\LanzamientoDadosEj1\obj\Debug\LanzamientoDadosEj1.pdb

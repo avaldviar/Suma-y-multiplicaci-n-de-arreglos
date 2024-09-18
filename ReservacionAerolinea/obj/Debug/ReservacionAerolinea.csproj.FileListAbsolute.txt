@@ -1,0 +1,20 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\bin\Debug\ReservacionAerolinea.exe.config
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\bin\Debug\ReservacionAerolinea.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\bin\Debug\ReservacionAerolinea.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.pdb
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\bin\Debug\ReservacionAerolinea.exe.config
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\bin\Debug\ReservacionAerolinea.exe
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\bin\Debug\ReservacionAerolinea.pdb
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.Form1.resources
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.Properties.Resources.resources
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.csproj.GenerateResource.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.exe
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\ReservacionAerolinea\obj\Debug\ReservacionAerolinea.pdb
