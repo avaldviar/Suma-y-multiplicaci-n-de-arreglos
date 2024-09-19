@@ -1,0 +1,10 @@
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\obj\Debug\ProbabilidadDeDados.csproj.AssemblyReference.cache
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\obj\Debug\ProbabilidadDeDados.Form1.resources
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\obj\Debug\ProbabilidadDeDados.Properties.Resources.resources
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\obj\Debug\ProbabilidadDeDados.csproj.GenerateResource.cache
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\obj\Debug\ProbabilidadDeDados.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\bin\Debug\ProbabilidadDeDados.exe.config
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\bin\Debug\ProbabilidadDeDados.exe
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\bin\Debug\ProbabilidadDeDados.pdb
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\obj\Debug\ProbabilidadDeDados.exe
+C:\Users\gemel\Desktop\Suma y multiplicacion de arreglos\ProbabilidadDeDados\ProbabilidadDeDados\obj\Debug\ProbabilidadDeDados.pdb

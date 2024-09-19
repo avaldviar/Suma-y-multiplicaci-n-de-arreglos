@@ -1,0 +1,15 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\obj\Debug\Ventasporvendedor.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\obj\Debug\Ventasporvendedor.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\obj\Debug\Ventasporvendedor.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\obj\Debug\Ventasporvendedor.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\bin\Debug\VendedoresEj3.exe.config
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\bin\Debug\VendedoresEj3.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VendedoresEj3\VendedoresEj3\bin\Debug\VendedoresEj3.pdb
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\Ventasporvendedor\VendedoresEj3\obj\Debug\Ventasporvendedor.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\Ventasporvendedor\VendedoresEj3\obj\Debug\Ventasporvendedor.Form1.resources
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\Ventasporvendedor\VendedoresEj3\obj\Debug\Ventasporvendedor.csproj.GenerateResource.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\Ventasporvendedor\VendedoresEj3\obj\Debug\VendedoresEj3.exe
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\Ventasporvendedor\VendedoresEj3\obj\Debug\VendedoresEj3.pdb

@@ -37,7 +37,6 @@
             this.rdoSmoking = new System.Windows.Forms.RadioButton();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.tbNombre = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -47,9 +46,9 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(294, 181);
+            this.pictureBox2.Location = new System.Drawing.Point(455, 192);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(64, 43);
+            this.pictureBox2.Size = new System.Drawing.Size(55, 41);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 13;
             this.pictureBox2.TabStop = false;
@@ -57,7 +56,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(41, 181);
+            this.pictureBox1.Location = new System.Drawing.Point(455, 125);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(55, 43);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -75,9 +74,9 @@
             // 
             // btnSubmit
             // 
-            this.btnSubmit.BackColor = System.Drawing.Color.OliveDrab;
-            this.btnSubmit.Location = new System.Drawing.Point(403, 247);
-            this.btnSubmit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSubmit.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.btnSubmit.Location = new System.Drawing.Point(208, 247);
+            this.btnSubmit.Margin = new System.Windows.Forms.Padding(2);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(107, 34);
             this.btnSubmit.TabIndex = 10;
@@ -88,11 +87,11 @@
             // rdoNonSmoking
             // 
             this.rdoNonSmoking.AutoSize = true;
-            this.rdoNonSmoking.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdoNonSmoking.Location = new System.Drawing.Point(114, 188);
-            this.rdoNonSmoking.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rdoNonSmoking.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rdoNonSmoking.Location = new System.Drawing.Point(340, 134);
+            this.rdoNonSmoking.Margin = new System.Windows.Forms.Padding(2);
             this.rdoNonSmoking.Name = "rdoNonSmoking";
-            this.rdoNonSmoking.Size = new System.Drawing.Size(88, 21);
+            this.rdoNonSmoking.Size = new System.Drawing.Size(85, 24);
             this.rdoNonSmoking.TabIndex = 9;
             this.rdoNonSmoking.TabStop = true;
             this.rdoNonSmoking.Text = "No Fumar";
@@ -101,12 +100,12 @@
             // rdoSmoking
             // 
             this.rdoSmoking.AutoSize = true;
-            this.rdoSmoking.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rdoSmoking.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rdoSmoking.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.rdoSmoking.Location = new System.Drawing.Point(376, 188);
-            this.rdoSmoking.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rdoSmoking.Location = new System.Drawing.Point(340, 200);
+            this.rdoSmoking.Margin = new System.Windows.Forms.Padding(2);
             this.rdoSmoking.Name = "rdoSmoking";
-            this.rdoSmoking.Size = new System.Drawing.Size(71, 21);
+            this.rdoSmoking.Size = new System.Drawing.Size(64, 24);
             this.rdoSmoking.TabIndex = 8;
             this.rdoSmoking.TabStop = true;
             this.rdoSmoking.Text = "Fumar";
@@ -117,7 +116,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(127, 136);
+            this.label1.Location = new System.Drawing.Point(21, 138);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(283, 17);
@@ -138,24 +137,11 @@
             this.label2.Text = "Sistema de reservaciones de aerolínea";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.Gray;
-            this.label3.Location = new System.Drawing.Point(36, 59);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(166, 20);
-            this.label3.TabIndex = 15;
-            this.label3.Text = "Agrega un pasajero";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
             // tbNombre
             // 
             this.tbNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbNombre.Location = new System.Drawing.Point(228, 90);
-            this.tbNombre.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbNombre.Location = new System.Drawing.Point(224, 53);
+            this.tbNombre.Margin = new System.Windows.Forms.Padding(2);
             this.tbNombre.Multiline = true;
             this.tbNombre.Name = "tbNombre";
             this.tbNombre.Size = new System.Drawing.Size(154, 31);
@@ -166,7 +152,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(38, 93);
+            this.label4.Location = new System.Drawing.Point(38, 67);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(164, 17);
@@ -177,11 +163,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FloralWhite;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(533, 292);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.tbNombre);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
@@ -190,7 +175,7 @@
             this.Controls.Add(this.rdoNonSmoking);
             this.Controls.Add(this.rdoSmoking);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -211,7 +196,6 @@
         private System.Windows.Forms.RadioButton rdoSmoking;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox tbNombre;
         private System.Windows.Forms.Label label4;
     }

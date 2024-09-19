@@ -1,0 +1,20 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\bin\Debug\VentasporComision.exe.config
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\bin\Debug\VentasporComision.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\bin\Debug\VentasporComision.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\obj\Debug\VentasporComision.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\obj\Debug\VentasporComision.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\obj\Debug\VentasporComision.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\obj\Debug\VentasporComision.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\obj\Debug\VentasporComision.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\obj\Debug\VentasporComision.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\Tarea de suma y multiplicacion de arreglos\VentasporComision\obj\Debug\VentasporComision.pdb
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\bin\Debug\VentasporComision.exe.config
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\bin\Debug\VentasporComision.exe
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\bin\Debug\VentasporComision.pdb
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\obj\Debug\VentasporComision.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\obj\Debug\VentasporComision.Form1.resources
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\obj\Debug\VentasporComision.Properties.Resources.resources
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\obj\Debug\VentasporComision.csproj.GenerateResource.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\obj\Debug\VentasporComision.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\obj\Debug\VentasporComision.exe
+C:\Users\gemel\Documents\Repo allan2\tarea-de-suma-y-multiplicaci-n-de-arreglos\VentasporComision\obj\Debug\VentasporComision.pdb

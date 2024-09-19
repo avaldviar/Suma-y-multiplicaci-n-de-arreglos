@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|c:\\users\\gemel\\documents\\repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\ventasporvendedor\\vendedoresej3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|solutionrelative:vendedoresej3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\clases\\Ventasx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|solutionrelative:VendedoresEj3\\clases\\Ventasx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\clases\\Empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|solutionrelative:VendedoresEj3\\clases\\Empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|solutionrelative:VendedoresEj3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\vendedoresej3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AC1DC-7ED4-40CF-829F-10B2A8C5E799}|VendedoresEj3\\Ventasporvendedor.csproj|solutionrelative:vendedoresej3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\Program.cs",
+              "RelativeDocumentMoniker": "VendedoresEj3\\Program.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\Program.cs",
+              "RelativeToolTip": "VendedoresEj3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:21:44.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\Form1.cs",
+              "RelativeDocumentMoniker": "VendedoresEj3\\Form1.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\Form1.cs",
+              "RelativeToolTip": "VendedoresEj3\\Form1.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAADgv5EAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:12:49.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\clases\\Empresa.cs",
+              "RelativeDocumentMoniker": "VendedoresEj3\\clases\\Empresa.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\clases\\Empresa.cs",
+              "RelativeToolTip": "VendedoresEj3\\clases\\Empresa.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:11:15.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ventasx.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\clases\\Ventasx.cs",
+              "RelativeDocumentMoniker": "VendedoresEj3\\clases\\Ventasx.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\clases\\Ventasx.cs",
+              "RelativeToolTip": "VendedoresEj3\\clases\\Ventasx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:11:14.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\Form1.cs",
+              "RelativeDocumentMoniker": "VendedoresEj3\\Form1.cs",
+              "ToolTip": "C:\\Users\\gemel\\Documents\\Repo allan2\\tarea-de-suma-y-multiplicaci-n-de-arreglos\\Ventasporvendedor\\VendedoresEj3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VendedoresEj3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:57:37.438Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
